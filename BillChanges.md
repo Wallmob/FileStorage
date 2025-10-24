@@ -28,7 +28,7 @@ Make bill footer expandable so cashier would be able to collapse/expand it on de
 | <img width="800" height="600" alt="IMG_0032" src="https://github.com/user-attachments/assets/b5e09c55-657b-46fa-b61f-2d47be344b1a" />      | ![gif](https://github.com/user-attachments/assets/ebf3a04c-49eb-4c1c-bb54-24b0738262ca)     |
 
 ## Problem B
-When you enable an action, you want to see it is enabled. If you do not see it, you might arrive at situation where you, e.g. remove VAT, go away from POS because customer asked something and when you came back, you forgot about removed VAT and make a sale like that. In old functionality, we show that VAT is removed as background text in the bill. But this text is visible only at the bottom, so if you have more items that fit into the bill (you need to scroll) you will not see that text without explicitly scrolling to the bottom.
+When you enable an action, you want to see it is enabled. If you do not see it, you might arrive at situation where you, e.g. remove VAT, go away from POS because customer asked something and when you came back, you forgot about removed VAT and make a sale like that. In old functionality, we show that VAT is removed as background text in the bill. But this text is visible only at the bottom, so if you have more items that do not fit into the bill (you need to scroll) you will not see that text without explicitly scrolling to the bottom.
 ## Solution B
 Whenever you enable an action, a red badge counter appears on the bill actions menu to clearly indicate that something is enabled. When menu is opened, you can see enabled actions at the top.
 
