@@ -11,10 +11,10 @@ Bill has more space now - it grew both vertically and horizontally thanks to rem
 # iPOS
 | Old  | New |
 | ------------- |:-------------:|
-| <img width="278" height="600" alt="IMG_1103" src="https://github.com/user-attachments/assets/f9004cc8-f6f4-49fe-b54c-880ea87f2845" /> | <img width="278" height="600" alt="IMG_1101" src="https://github.com/user-attachments/assets/25c0bb7e-d119-497b-b1d6-1423cc7b2df2" /> |
-| <img width="278" height="600" alt="IMG_1104" src="https://github.com/user-attachments/assets/0668a23f-01dc-4a39-8dbb-8631c8b69436" /> | <img width="278" height="600" alt="IMG_1108" src="https://github.com/user-attachments/assets/f81e29b6-e222-4f13-9ae6-9aed4ae7cc9f" /> |
-| <img width="278" height="600" alt="IMG_1105" src="https://github.com/user-attachments/assets/962ba4b4-3434-4af6-85e7-f53e807439c1" /> | <img width="278" height="600" alt="IMG_1109" src="https://github.com/user-attachments/assets/3be65920-0aab-4624-bf9c-dad270a1e6d9" /> |
-| <img width="278" height="600" alt="IMG_1106" src="https://github.com/user-attachments/assets/6bc388c1-6795-40b9-ac23-22b9469d13a1" /> | <img width="278" height="600" alt="IMG_1110" src="https://github.com/user-attachments/assets/4c553e3f-7963-4a63-8bdd-e7fe08c0bc62" /> |
+| <img width="278" height="600" alt="IMG_1103" src="https://github.com/user-attachments/assets/f9004cc8-f6f4-49fe-b54c-880ea87f2845" /> | <img width="278" height="600" alt="IMG_1111" src="https://github.com/user-attachments/assets/2a63cbe0-6b2d-4cd7-acc7-fc71d68995f5" /> |
+| <img width="278" height="600" alt="IMG_1104" src="https://github.com/user-attachments/assets/0668a23f-01dc-4a39-8dbb-8631c8b69436" /> | <img width="278" height="600" alt="IMG_1112" src="https://github.com/user-attachments/assets/0a2ca6e1-014f-4426-b5b2-5d9df4dd5d4a" /> |
+| <img width="278" height="600" alt="IMG_1105" src="https://github.com/user-attachments/assets/962ba4b4-3434-4af6-85e7-f53e807439c1" /> | <img width="278" height="600" alt="IMG_1113" src="https://github.com/user-attachments/assets/eba3509d-dafb-42ec-bd59-d9043afdff6b" /> |
+| <img width="278" height="600" alt="IMG_1106" src="https://github.com/user-attachments/assets/6bc388c1-6795-40b9-ac23-22b9469d13a1" /> | <img width="278" height="600" alt="IMG_1114" src="https://github.com/user-attachments/assets/2b065160-567d-4ce5-a7c2-359c90739801" /> |
 
 # Problems that were being solved
 ## Problem A
